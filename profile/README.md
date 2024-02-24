@@ -1,4 +1,4 @@
-# Water Resources & Hydrology Group
+## Water Resources & Hydrology (WRH) Group
 
 Welcome to the Water Resources & Hydrology (WRH) research group, led by [Dr. Mohammed Basheer](https://civmin.utoronto.ca/home/about-us/directory/mohammed-basheer/). 
 
